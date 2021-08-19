@@ -74,6 +74,6 @@
 <br/><br/>
 
 
-<a name="myfootnote1">1</a>: https://cran.r-project.org/web/packages/CausalImpact/vignettes/CausalImpact.html. 모델에 관한 자세한 설명은 Brodersen, K.H., Gallusser, F., Koehler, J., Remy, N. and Scott, S.L., 2015. Inferring Causal Impact using Bayesian Structural Time-Series Models. Annals of Applied Statistics, 9(1), pp.247-274. 참고.
-<a name="myfootnote2">2</a>: https://github.com/edunford/tidysynth. 모델에 관한 자세한 설명은 Abadie, A., 2021. Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects. Journal of Economic Literature, 59(2), pp.391-425. 참고.
-<a name="myfootnote3">3</a>: 모델에 관한 자세한 설명은 Arkhangelsky, D., Athey, S., Hirshberg, D.A., Imbens, G.W. and Wager, S., 2019. Synthetic Difference in Differences (No. w25532). National Bureau of Economic Research. 참고.
+<a name="myfootnote1">1</a>: https://cran.r-project.org/web/packages/CausalImpact/vignettes/CausalImpact.html. 모델에 관한 자세한 설명은 Brodersen, K.H., Gallusser, F., Koehler, J., Remy, N. and Scott, S.L., 2015. Inferring Causal Impact using Bayesian Structural Time-Series Models. Annals of Applied Statistics, 9(1), pp.247-274. 참고.<br/>
+<a name="myfootnote2">2</a>: https://github.com/edunford/tidysynth. 모델에 관한 자세한 설명은 Abadie, A., 2021. Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects. Journal of Economic Literature, 59(2), pp.391-425. 참고.<br/>
+<a name="myfootnote3">3</a>: 모델에 관한 자세한 설명은 Arkhangelsky, D., Athey, S., Hirshberg, D.A., Imbens, G.W. and Wager, S., 2019. Synthetic Difference in Differences (No. w25532). National Bureau of Economic Research. 참고.<br/>
